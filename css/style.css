@@ -5,11 +5,11 @@
     position: relative;
 }
 
-#carousel .gallery {
+#carousel #gallery {
     height: 100%;
 }
 
-#carousel .gallery img {
+#carousel #gallery img {
     height: 100%;
     width: 100%;
     object-fit: cover;
@@ -17,7 +17,7 @@
     display: none;
 }
 
-#carousel .gallery .active{
+#carousel #gallery .active{
     display: block;
 } 
 
